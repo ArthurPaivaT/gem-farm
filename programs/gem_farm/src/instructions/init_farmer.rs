@@ -7,7 +7,7 @@ use std::str::FromStr;
 
 use crate::state::*;
 
-const FEE_LAMPORTS: u64 = 5_000_000; // 0.005 SOL per farmer
+const FEE_LAMPORTS: u64 = 100; // 0.0000001 SOL per farmer
 
 #[derive(Accounts)]
 #[instruction(bump_farmer: u8, bump_vault: u8)]

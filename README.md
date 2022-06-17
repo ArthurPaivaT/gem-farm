@@ -14,8 +14,8 @@ Gem Bank is used under the hood by Gem Farm.
 
 Both programs are now officially deployed across all 3 networks (mainnet, devnet, testnet):
 ```
-bank: bankHHdqMuaaST4qQk6mkzxGeKPHWmqdgor6Gs8r88m
-farm: farmL4xeBFVXJqtfxCzU9b28QACM7E2W2ctT6epAjvE
+bank: HH3mNHoxYP8riakmQMcYhGaY4ToXzyrt14Kiit4JK9S
+farm: 2yYDX8THp9hLM6YfTrhRUUSWtWJM9b87uEwCuFAXv26y
 ```
 
 You can interact with them using this [front-end](https://www.gemfarm.gg/) (or build your own).

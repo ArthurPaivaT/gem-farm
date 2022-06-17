@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.0",
   "name": "gem_bank",
   "instructions": [
     {
@@ -658,5 +658,8 @@
         ]
       }
     }
-  ]
+  ],
+  "metadata": {
+    "address": "HH3mNHoxYP8riakmQMcYhGaY4ToXzyrt14Kiit4JK9S"
+  }
 }

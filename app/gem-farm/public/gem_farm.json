@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.0.0",
   "name": "gem_farm",
   "instructions": [
     {
@@ -1651,5 +1651,8 @@
         ]
       }
     }
-  ]
+  ],
+  "metadata": {
+    "address": "2yYDX8THp9hLM6YfTrhRUUSWtWJM9b87uEwCuFAXv26y"
+  }
 }
